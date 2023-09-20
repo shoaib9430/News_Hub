@@ -20,14 +20,6 @@ Features :-
 3. Infinite Scrolling
 
 
-----------------------------------------------------------------
-
-Links :- 
-
-Hosted on :- https://react-news-apk.netlify.app/  (Netlify)
-
-Sever :- https://news-server-tqwo.onrender.com/ (Render)
-
 -----------------------------------------------------------------
 Screenshots :-
 

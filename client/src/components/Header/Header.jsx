@@ -22,7 +22,7 @@ const Header = () => {
         <h2 style={{ margin: "auto", paddingTop: "10px" }}>
           Welcome to NewsApp
         </h2>
-        <Link style={{ textAlign: "right", color:"#fff", height:"20px" }} href="https://github.com/aniketsingh10/NewsApp" target="_blank"> About </Link>
+        <Link style={{ textAlign: "right", color:"#fff", height:"20px" }} href="https://github.com/shoaib9430/News_Hub/tree/main" target="_blank"> About </Link>
         
       </Toolbar>
     </StyledApp>
