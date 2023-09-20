@@ -25,11 +25,12 @@ Screenshots :-
 
 News page -
 
-![Screenshot (623)]()
+![Screenshot (504)](https://github.com/shoaib9430/News_Hub/assets/48713756/9b581371-317e-4792-847c-021bbc35cbf7)
 
 Info module -
 
-![Screenshot (625)]()
+![Screenshot (506)](https://github.com/shoaib9430/News_Hub/assets/48713756/2d4e9b4b-52d8-430b-a9a5-5e5e821620cc)
+
 
 
 
